@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Iabyrinth/Iabyrinth/assets/162846296/2c0ffdec-f1aa-43b9-981a-9c29efcb7a15" alt="Header Image" width="500" height="500" />
+  <img src="https://github.com/Iabyrinth/Iabyrinth/assets/162846296/2c0ffdec-f1aa-43b9-981a-9c29efcb7a15" alt="Header Image" width="400" height="400" />
 </div>
 
 <div align="center">
