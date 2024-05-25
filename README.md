@@ -9,6 +9,7 @@
     <p>⭐ Utilize the whisper feature! <strong>I tab out often</strong> and I wont notice otherwise.</p>
     <p>⭐ No DNI;   if you disagree with me in any way ever we fist fight like men.</p>
     <p>⭐ Open for RP walkups if "Looking for RP" status is on;    <strong>if not, whisper.</strong></p>
+    <p>⭐ Feel free to talk to me regardless! I love making new friends ^_^</p>
   </div>
 </div>
 
